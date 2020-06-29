@@ -38,7 +38,8 @@ Foi utilizando o React-Native com o `Expo` para a criação da aplicação mobil
 <br>
 Para o mobile, foram utilizadas ferramentas como `axios`, `react-navigation`, `react-native-maps` e `socket.io-client`.
 <br>
-Possui duas telas: a tela inicial que possui o mapa para encontrar o usuário do GitHub filtrado por tecnologia e por localidade; e a tela de exibição do perfil no GitHub.
+<br>
+Possui duas telas: a tela inicial (que possui o mapa para encontrar o usuário do GitHub filtrado por tecnologia e por localidade), e a tela de exibição do perfil no GitHub.
 
 <br>
 <img src="/backend/uploads/foto2.png">
