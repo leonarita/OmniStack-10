@@ -11,13 +11,17 @@ Esse projeto possibilita buscar desenvolvedores de uma determinada tecnologia em
 
 ### 1. Backend
 
-Para o backend, foram utilizadas ferramentas como `express`, `mongoose`, `cors` e `socket.io`. Foram feitas as models, controllers, validação de dados, conexão com banco de dados e criação das rotas.
+Para o backend, foram utilizadas ferramentas como `express`, `axios`, `mongoose`, `cors` e `socket.io`.
+<br>
+Foram feitas as models, controllers, validação de dados, conexão com banco de dados e criação das rotas.
 
 <br>
 
 ### 2. Frontend
 
-Para o frontend, foram utilizadas ferramentas como `axios`, `react-icons`, `react-router-dom` e `socket.io-client`. Possui uma tela básica dividida em dois grids: um para cadastro de GitHub, e outro de listagem de dados cadastrados.
+Para o frontend, foram utilizadas ferramentas como `axios`, `react-router-dom` e `socket.io-client`. 
+<br<
+Possui uma tela básica dividida em dois grids: um para cadastro de GitHub, e outro de listagem de dados cadastrados.
 
 <br>
 <img src="/backend/uploads/foto1.png">
@@ -25,7 +29,9 @@ Para o frontend, foram utilizadas ferramentas como `axios`, `react-icons`, `reac
 
 ### 3. Mobile
 
-Para o mobile, foram utilizadas ferramentas como `axios`, `react-native-maps` e `socket.io-client`. Possui duas telas: a tela inicial que possui o mapa para encontrar o usuário do GitHub filtrado por tecnologia e por localidade; e a tela de exibição do perfil no GitHub.
+Para o mobile, foram utilizadas ferramentas como `axios`, `react-navigation`, `react-native-maps` e `socket.io-client`.
+<br>
+Possui duas telas: a tela inicial que possui o mapa para encontrar o usuário do GitHub filtrado por tecnologia e por localidade; e a tela de exibição do perfil no GitHub.
 
 <br>
 <img src="/backend/uploads/foto2.png">
