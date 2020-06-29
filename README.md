@@ -19,13 +19,19 @@ Esse projeto possibilita buscar desenvolvedores de uma determinada tecnologia em
 
 Para o backend, foram utilizadas ferramentas como `express`, `axios`, `mongoose`, `cors` e `socket.io`.
 <br>
-Foram feitas as models, controllers, validação de dados, conexão com banco de dados e criação das rotas.
+<br>
+Foram feitas as seguintes funcionalidades:
+  1. Models;
+  2. Controllers;
+  3. Conexão com banco de dados;
+  4. Criação das rotas.
 
 <br>
 
 ### 2. Frontend
 
 Para o frontend, foram utilizadas ferramentas como `axios`, `react-router-dom` e `socket.io-client`. 
+<br>
 <br>
 Possui uma tela básica dividida em dois grids: um para cadastro de GitHub, e outro de listagem de dados cadastrados.
 
@@ -40,7 +46,9 @@ Foi utilizando o React-Native com o `Expo` para a criação da aplicação mobil
 Para o mobile, foram utilizadas ferramentas como `axios`, `react-navigation`, `react-native-maps` e `socket.io-client`.
 <br>
 <br>
-Possui duas telas: a tela inicial (que possui o mapa para encontrar o usuário do GitHub filtrado por tecnologia e por localidade), e a tela de exibição do perfil no GitHub.
+Possui duas telas:
+  1. Tela inicial (que possui o mapa para encontrar o usuário do GitHub filtrado por tecnologia e por localidade);
+  2. Tela de exibição do perfil no GitHub.
 
 <br>
 <img src="/backend/uploads/foto2.png">
