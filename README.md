@@ -56,3 +56,9 @@ Possui duas telas:
 <br>
 
 _Obs: Por limitação do meu emulador do android, eu não consegui usar o gps e, por isso, configurei para que o mapa seja direcionado para minha localidade (endereço)._
+
+### 4. Funcionalidade On Real Time
+
+Caso um desenvolvedor seja cadastrado, os desenvolvedores conseguem receber a atualização instantaneamente, sem a necessidade de atualizar a página.
+<br>
+Essa funcionalidade é devida ao `socket.io` e `socket.io-client`.
