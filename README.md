@@ -4,9 +4,9 @@
 
 Nessa semana, foi desenvolvido uma aplicação full stack integrando backend (com NodeJS), frontend (com ReactJS) e mobile (com React-Native). 
 <br>
+<br>
 A linguagem de programação utilizada foi o **`Javascript`**.
 
-<br>
 <br>
 Esse projeto possibilita buscar desenvolvedores de uma determinada tecnologia em um raio de 10 km, podendo ser atualizada a aplicação mobile on real time.
 
