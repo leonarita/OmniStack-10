@@ -12,7 +12,7 @@ Esse projeto possibilita buscar desenvolvedores de uma determinada tecnologia em
 
 <br>
 <br>
-<img src="/backend/uploads/foto3.png">
+<img src="/uploads/foto3.png">
 <br>
 
 ### 1. Backend
@@ -37,7 +37,7 @@ Para o frontend, foram utilizadas ferramentas como `axios`, `react-router-dom` e
 Possui uma tela básica dividida em dois grids: um para cadastro de GitHub, e outro de listagem de dados cadastrados.
 
 <br>
-<img src="/backend/uploads/foto1.png">
+<img src="/uploads/foto1.png">
 <br>
 
 ### 3. Mobile
@@ -52,7 +52,7 @@ Possui duas telas:
   2. Tela de exibição do perfil no GitHub.
 
 <br>
-<img src="/backend/uploads/foto2.png">
+<img src="/uploads/foto2.png">
 <br>
 
 _Obs: Por limitação do meu emulador do android, eu não consegui usar o gps e, por isso, configurei para que o mapa seja direcionado para minha localidade (endereço)._
